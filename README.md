@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @cvondran
 - 👀 I’m interested in data analytics
-- 🌱 I’m currently learning data analysis 
-- 💞️ I’m looking to collaborate on not really sure still learning
 - 📫 How to reach me cvondran@2gmail.com
 
 <!---
